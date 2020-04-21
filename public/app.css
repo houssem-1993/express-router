@@ -1,0 +1,9 @@
+.nav{
+    display: flex;
+    border: black solid 1px ;
+    justify-content: space-around;
+
+}
+body{
+    background-color: aquamarine;
+}
